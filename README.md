@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @NevaDincer
-- 👀 I’m interested in Machine Learning, Data Science and Software Engineering.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me nevadincer@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a freshman CS student at Bilkent University.
+Hi, I’m @NevaDincer. I am a CS student at Bilkent University.
+I’m currently learning Java, C++.
+- How to reach me: nevadincer@gmail.com
 
 <!---
 NevaDincer/NevaDincer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
