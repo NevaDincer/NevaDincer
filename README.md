@@ -1,5 +1,5 @@
 Hi, I’m @NevaDincer. I am a CS student at Bilkent University.
-I’m currently learning Java, C++.
+-I’m currently learning Java, C++.
 - How to reach me: nevadincer@gmail.com
 
 <!---
