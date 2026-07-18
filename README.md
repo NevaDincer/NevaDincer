@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Neva
 
-<!--
-**NevaDincer/NevaDincer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student @ Bilkent University (based in Ankara, Turkey). I work on computer vision and autonomous systems, and more recently, LLM security and benchmarking.
 
-Here are some ideas to get you started:
+**🌳 Currently:**
+- Research intern at SINTEF Digital - prototyping multi-agent LLM systems for automated code review
+- Researching computer vision x software engineering at Bilkent
+- Incoming intern at Akdoğan (Cyberpark, Ankara) - working on an unmanned surface vehicle project, embedded systems for autonomous marine vehicles
+- Previously led the CV/ROS2 pipeline for an autonomous surface vehicle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you want to talk about any of this! 🌟
+
+### 📫 Reach out
+
+- Email: [nevadincer@gmail.com](mailto:nevadincer@gmail.com)
+- LinkedIn: [nevadincer](https://www.linkedin.com/in/nevadincer)
+- GitHub: [@NevaDincer](https://github.com/NevaDincer)
